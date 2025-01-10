@@ -20,9 +20,9 @@ A simple and fun Python-based **Rock, Paper, Scissors** game where you play agai
 ## Getting Started 🚀  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   cd rock-paper-scissors
-   python3 rock_paper_scissors.py
+   git clone https://github.com/theDharmarajsinh/RPS-Showdown.git
+   cd RPS-Showdown
+   python3 RPS-Showdown.py
 ## Future Enhancements 🌟
 - Difficulty levels.
 - Multiplayer mode.
